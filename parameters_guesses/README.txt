@@ -1,0 +1,1 @@
+Contains parameter guesses which are used by fit_bandstructure.py. Or use random starting guesses if the material is not found here.

@@ -1,0 +1,27 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+matplotlib = "*"
+numpy = "*"
+scipy = "*"
+sympy = "*"
+pandas = "*"
+tqdm = "*"
+pyfzf = "*"
+PyGithub = "*"
+psutil = "*"
+pipfile = "*"
+
+[dev-packages]
+ipykernel = "*"
+jupyter = "*"
+jupyterlab-pygments = "*"
+pycodestyle="*"
+pydocstyle="*"
+coverage="*"
+
+[requires]
+python_version = "3.9.2"

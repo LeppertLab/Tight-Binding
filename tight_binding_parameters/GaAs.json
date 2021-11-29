@@ -1,0 +1,21 @@
+{
+	"order": {
+		"1": {
+  			"energies": {
+      				"Gas": -4.79,
+      				"Gap": 4.59,
+      				"Ass": -6.01,
+      				"Asp": 0.19
+  			},
+  			"overlap_integrals": {
+      				"AssGasσ": -1.75,
+      				"GasAspσ": 1.602146997,
+      				"AssGapσ": 3.15233247,
+      				"AspGapσ": 2.5925,
+      				"AspGapπ": -0.9475
+  			}
+		}
+	}
+}
+
+

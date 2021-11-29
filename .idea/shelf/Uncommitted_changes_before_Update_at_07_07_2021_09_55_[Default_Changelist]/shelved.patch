@@ -1,0 +1,84 @@
+Index: simulations/20210706-142536/data.csv
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/simulations/20210706-142536/data.csv b/simulations/20210706-142536/data.csv
+new file mode 100644
+--- /dev/null	
++++ b/simulations/20210706-142536/data.csv	
+@@ -0,0 +1,2 @@
++E_Sip,E_Sis,SipSipπ,SisSipσ,SisSisσ,SipSipσ,Error
++0.534022384756331,-3.485921154498972,1.4201095697082138,-0.6679374839614495,1.9186667475204402,-3.9276939773491253,1.7737030704244856
+Index: simulations/20210706-210813/data.csv
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/simulations/20210706-210813/data.csv b/simulations/20210706-210813/data.csv
+new file mode 100644
+--- /dev/null	
++++ b/simulations/20210706-210813/data.csv	
+@@ -0,0 +1,2 @@
++E_Tlp,E_Brp,E_Bis,E_Bip,E_Tls,TlsBrpσ,BrpTlpπ,BisBrpσ,BipBrpσ,BipBrpπ,BrpTlpσ,Error
++0.8646264203022263,-2.541512177766578,-0.9389017941695852,1.6830494391114026,-7.993775067708763,0.38676109927338775,-0.4828218915516512,-3.8560902621377215e-07,0.0048983250425419615,0.5691107208819339,1.3194787480168277,0.18377181048691715
+Index: simulations/20210705-130004 Cs2TlBiBr6 1 100 altered unitcell bandgap check/data.csv
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/simulations/20210705-130004 Cs2TlBiBr6 1 100 altered unitcell bandgap check/data.csv b/simulations/20210705-130004 Cs2TlBiBr6 1 100 altered unitcell bandgap check/data.csv
+new file mode 100644
+--- /dev/null	
++++ b/simulations/20210705-130004 Cs2TlBiBr6 1 100 altered unitcell bandgap check/data.csv	
+@@ -0,0 +1,2 @@
++E_Tlp,E_Bip,E_Tls,E_Brp,E_Bis,TlsBrpσ,BipBrpσ,BisBrpσ,BrpTlpπ,BipBrpπ,BrpTlpσ,Error
++0.3212827274912857,1.4618604781912568,-7.955078268125855,-2.469003409668318,-0.479850298246475,0.45649381898751873,0.08460252192811335,-7.24008926810844e-07,0.5283863889483266,-0.6218606167231994,-1.4148478975163283,0.17014306900721604
+Index: simulations/20210706-143823/data.csv
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/simulations/20210706-143823/data.csv b/simulations/20210706-143823/data.csv
+new file mode 100644
+--- /dev/null	
++++ b/simulations/20210706-143823/data.csv	
+@@ -0,0 +1,2 @@
++E_Bip,E_Bis,E_Tls,E_Brp,E_Tlp,BipBrpπ,BipBrpσ,BisBrpσ,BrpTlpσ,TlsBrpσ,BrpTlpπ,Error
++1.7104059826861733,-2.4892682700324684,-8.159055096521355,-2.1918143950778886,0.5675087030270322,0.6874992017616317,-0.8718546535208823,-1.0047038813040208,-0.45890188829035516,-0.055535761742071366,0.6288956713471758,0.49593859603987295
+Index: simulations/20210705-134913 Cs2TlBiBr6 2 100 altered unitcell bandgap check/data.csv
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/simulations/20210705-134913 Cs2TlBiBr6 2 100 altered unitcell bandgap check/data.csv b/simulations/20210705-134913 Cs2TlBiBr6 2 100 altered unitcell bandgap check/data.csv
+new file mode 100644
+--- /dev/null	
++++ b/simulations/20210705-134913 Cs2TlBiBr6 2 100 altered unitcell bandgap check/data.csv	
+@@ -0,0 +1,2 @@
++E_Brp,E_Bis,E_Bip,E_Tls,E_Tlp,TlsBrpσ,TlsBipσ2,BrpBrpσ2,BrpTlpσ,BipBrpπ,BipBrpσ,BisTlsσ2,BrpBrpπ2,BrpTlpπ,BisTlpσ2,BisBrpσ,BipTlpσ2,BipTlpπ2,Error
++-2.5346508109415997,-8.30722588505932,1.6048407393935293,-2.0570183522005694,1.2152927261342197,0.9547804309893887,0.6411616581638194,-0.3075762907591183,-1.2168710161571261,0.2789354631034923,0.16452775599160946,-0.02045420600386638,0.055000383843103885,0.3925412664268328,0.4143977327006876,-0.09192668231727122,0.34072149594375045,0.31039719424371653,0.0917879478194289
+Index: simulations/20210705-150410/data.csv
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/simulations/20210705-150410/data.csv b/simulations/20210705-150410/data.csv
+new file mode 100644
+--- /dev/null	
++++ b/simulations/20210705-150410/data.csv	
+@@ -0,0 +1,2 @@
++E_Tlp,E_Bis,E_Brp,E_Tls,E_Bip,BisBrpσ,BrpTlpσ,BrpTlpπ,TlsBrpσ,BipBrpπ,BipBrpσ,Error
++0.3212832497114841,-0.479849567210308,-2.469003055573536,-7.9550898269524595,1.4618601233565502,-2.1546522455123577e-06,-1.414848212975433,0.5283861134141195,0.456489555255208,-0.6218600985590477,0.08460229357235777,0.17014306900943144
+Index: simulations/20210706-142614/data.csv
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/simulations/20210706-142614/data.csv b/simulations/20210706-142614/data.csv
+new file mode 100644
+--- /dev/null	
++++ b/simulations/20210706-142614/data.csv	
+@@ -0,0 +1,2 @@
++E_Tls,E_Brp,E_Bis,E_Tlp,E_Bip,BipBrpσ,BrpTlpπ,TlsBrpσ,BrpTlpσ,BipBrpπ,BisBrpσ,Error
++-5.226897194451469,-4.281018149472794,-4.193463053679183,3.8986817918152794,5.935962864779861,-0.7520818600521455,0.45917817677086287,1.7097205852898614,-0.8373480719478793,0.16655801980253068,0.6566497475557489,3.859330121492434

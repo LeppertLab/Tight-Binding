@@ -1,0 +1,48 @@
+{
+  "shape": "fcc",
+  "lattice": [
+    [0.5, 0.5, 0],
+    [0, 0.5, 0.5],
+    [0.5, 0, 0.5]
+  ],
+  "basis": [
+    {
+      "type": "Ag",
+      "positions": [[0, 0, 0]],
+      "valence_orbitals": ["d"],
+      "conductance_orbitals": ["s"]
+    },
+    {
+      "type": "In",
+      "positions": [[0.5, 0.5, 0.5]],
+      "valence_orbitals": [],
+      "conductance_orbitals": ["s"]
+    },
+    {
+      "type": "Cl",
+      "positions": [
+        [0.25, 0.5, 0.5],
+        [0.5, 0.25, 0.5],
+        [0.5, 0.5, 0.25]
+      ],
+      "valence_orbitals": ["p"],
+      "conductance_orbitals": [],
+      "flip_odd_orbitals": true
+    },
+    {
+      "type": "Cl",
+      "positions": [
+        [0.25, 0.5, 0.5],
+        [0.5, 0.25, 0.5],
+        [0.5, 0.5, 0.25]
+      ],
+      "valence_orbitals": ["p"],
+      "conductance_orbitals": []
+    }
+  ],
+  "brillouin_zone": {
+    "\\Gamma": [0, 0, 0],
+    "L": [0.5, 0.5, 0.5],
+    "X": [0, 1, 0]
+  }
+}

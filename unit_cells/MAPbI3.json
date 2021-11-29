@@ -1,0 +1,32 @@
+{
+  "shape": "sc",
+  "lattice": [
+      [1, 0, 0],
+      [0, 1, 0],
+      [0, 0, 1]
+  ],
+  "basis": [
+    {
+      "type": "Pb",
+      "positions": [[0, 0, 0]],
+      "cartesian": 1,
+      "orbitals": ["s", "p"]
+    },
+    {
+      "type": "I",
+      "positions": [
+        [0.5, 0, 0],
+        [0, 0.5, 0],
+        [0, 0, 0.5]
+      ],
+      "cartesian": 1,
+      "orbitals": ["s", "p"]
+    }
+  ],
+  "brillouin_zone": {
+    "\\Gamma": [0, 0, 0],
+    "M": [0.5, 0.5, 0],
+    "R": [0.5, 0.5, 0.5],
+    "X": [0, 0.5, 0]
+  }
+}

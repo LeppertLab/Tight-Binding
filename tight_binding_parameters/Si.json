@@ -1,0 +1,32 @@
+ {
+	"order": {
+		"1": {
+			"energies": {
+				"Sis": -4.03,
+      				"Sip": 3.17
+  			},
+  			"overlap_integrals": {
+     				"SisSisσ": -2.0325,
+      				"SisSipσ": 2.5461146871262494,
+     				"SipSipσ": 4.5475,
+      				"SipSipπ": -1.085
+			}
+  		},
+		"2": {
+  			"energies": {
+     				"Sis": -3.1375,
+      				"Sip": 4.0625
+  			},
+  			"overlap_integrals": {
+      				"SisSisσ": -2.0325,
+      				"SisSipσ": 2.546114687,
+      				"SipSipσ": 4.1825,
+      				"SipSipπ": -1.45,
+      				"SisSisσ2": 0,
+      				"SisSipσ2": 0,
+      				"SipSipσ2": 0,
+      				"SipSipπ2": -0.5475
+  			}
+		}
+	}
+}

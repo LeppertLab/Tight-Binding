@@ -1,0 +1,20 @@
+{
+	"order": {
+		"1": {
+  			"energies": {
+      				"Ses": -8.92,
+      				"Sep": 0.12,
+      				"Zns": -0.28,
+      				"Znp": 7.42
+  			},
+  			"overlap_integrals": {
+      				"SesZnsσ": -1.535,
+      				"SesZnpσ": 2.368579479,
+      				"ZnsSepσ": 2.04815008,
+      				"SepZnpσ": 2.43,
+      				"SepZnpπ": -0.855
+  			}
+		}
+	}
+}
+

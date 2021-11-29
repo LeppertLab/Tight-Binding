@@ -1,0 +1,32 @@
+{	
+	"order": {
+		"1": {
+			"energies": {
+      				"Ges": -5.79,
+      				"Gep": 2.62
+  			},
+  			"overlap_integrals": {
+				"GesGesσ": -1.695,
+      				"GesGepσ": 2.299297447,
+     				"GepGepσ": 4.065,
+     				"GepGepπ": -1.05
+			}
+  		},
+		"2": {
+ 			"energies": {
+				"Ges": -4.565,
+				"Gep": 3.845
+			},
+			"overlap_integrals": {
+				"GesGesσ": -1.695,
+				"GesGepσ": 2.299297447,
+				"GepGepσ": 3.815,
+				"GepGepπ": -1.3,
+				"GesGesσ2": 0,
+				"GesGepσ2": 0,
+				"GepGepσ2": 0,
+				"GepGepπ2": -0.25
+			}
+		}
+	}	
+}

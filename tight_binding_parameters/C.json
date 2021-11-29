@@ -1,0 +1,16 @@
+{
+	"order": {
+		"1": {
+  			"energies": {
+      				"Cs": -4.5,
+      				"Cp": 2.9
+  			},
+  			"overlap_integrals": {
+      				"CsCsσ": -3.8,
+      				"CsCpσ": 4.438380194,
+      				"CpCpσ": 4.9,
+      				"CpCpπ": -1.325
+  			}
+		}
+	}
+}

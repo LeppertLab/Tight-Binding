@@ -1,0 +1,24 @@
+{
+	"order": {
+		"1": {
+    			"energies": {
+        			"Pbs": -9.01,
+        			"Pbp": 2.34,
+        			"Is": -13.01,
+        			"Ip": -1.96
+    			},
+    			"overlap_integrals": {
+        			"IsPbsσ": -1.10,
+        			"IsPbpσ": 0.70,
+        			"PbsIpσ": 1.19,
+        			"IpPbpσ": -3.65,
+        			"IpPbpπ": 0.55
+			},
+			"soc_coefficients": {
+				"lambda_Pb_p": 0.866666666667,
+				"lambda_I_p": 0.60
+			}
+		}
+	}
+}
+

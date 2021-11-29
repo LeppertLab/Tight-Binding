@@ -1,0 +1,46 @@
+{
+  "shape": "fcc",
+  "lattice": [
+    [0.5, 0.5, 0],
+    [0, 0.5, 0.5],
+    [0.5, 0, 0.5]
+  ],
+  "basis": [
+    {
+      "type": "Br",
+      "positions": [
+        [0.25, 0.25, 0.75],
+        [0.25, 0.75, 0.25],
+        [0.75, 0.25, 0.25],
+        [0.75, 0.75, 0.25],
+        [0.75, 0.25, 0.75],
+        [0.25, 0.75, 0.75]
+      ],
+      "cartesian": 0,
+      "orbitals": ["p"],
+      "spin_coupled_orbitals": ["p"]
+    },
+    {
+      "type": "Bi",
+      "positions": [[0.5, 0.5, 0.5]],
+      "cartesian": 0,
+      "orbitals": ["s", "p"],
+      "spin_coupled_orbitals": ["s", "p"]
+    },
+    {
+      "type": "Ag",
+      "positions": [[0, 0, 0]],
+      "cartesian": 0,
+      "orbitals": ["d", "s"],
+      "spin_coupled_orbitals": ["s", "d"]
+    }
+  ],
+  "brillouin_zone": {
+    "\\Gamma": [0, 0, 0],
+    "X": [0, 1, 0],
+    "L": [0.5, 0.5, 0.5],
+    "W": [0.5, 1, 0],
+    "U": [0.25, 1, 0.25],
+    "K": [0.75, 0.75, 0]
+  }
+}

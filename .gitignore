@@ -1,0 +1,7 @@
+*.pyc
+htmlcov
+.coverage
+.ipynb_checkpoints/
+old/
+notebooks/
+__pycache__
