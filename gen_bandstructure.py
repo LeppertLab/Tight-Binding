@@ -96,7 +96,7 @@ def main(r, args):
                                                     **parameters_collection.soc_coefficients},
                                                    k_values)
     eigenvalues = eigenvalues[model.find_chosen_bands(eigenvalues, args.nc, args.nv, args.Ef, printing=True), :]
-    # eigenvalues = model.shift_eigenvalues(eigenvalues, args.Ef)
+    eigenvalues = model.shift_eigenvalues(eigenvalues, args.Ef)
     return eigenvalues, args.symmetry_points, n_pos_symmetry_points
 
 
